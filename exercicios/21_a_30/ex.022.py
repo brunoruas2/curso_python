@@ -3,7 +3,7 @@
 #– Quantas letras ao todo (sem considerar espaços).
 #– Quantas letras tem o primeiro nome.
 
-nome = input('Digite seu nome completo: ')
+nome = input('Digite seu nome completo: ').strip()
 
 print('Analisando seu nome...')
 print('Seu nome em {} é {}'.format('Maiúsculas',nome.upper()))
