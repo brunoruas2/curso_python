@@ -1,0 +1,3 @@
+## Como carregar funções de um .py file em outro .py scripy (isso evitar reescrever a mesma função em vários scripts)
+  fonte: https://stackoverflow.com/questions/20309456/call-a-function-from-another-file
+  resumo: from 'caminho_do_file' import function
