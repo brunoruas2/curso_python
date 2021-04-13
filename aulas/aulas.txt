@@ -53,9 +53,17 @@
     frase.capitalize() >>> 'Curso em video python'
     frase.title() >>> 'Curso em Video Python' (primeiras letras em upper)
     frase.strip() >>> 'curso em video' (remove os espaços inúteis no começo e no final da string)
-    frase.rstrip() >>> 'curso em video' (remove os espaços inúteis no final da string)
-    frase.lstrip() >>> 'curso em video' (remove os espaços inúteis no começo da sting)
+    frase.rstrip() >>> 'curso em video' (remove os espaços inúteis no final da string - ATENCAO A ESSA LOGICA DO R)
+    frase.lstrip() >>> 'curso em video' (remove os espaços inúteis no começo da sting - ATENCAO A ESSA LOGICA DO L)
   
   4. Divisão
       frase.split() >>> ['curso','em','video','python'] (separa uma string em outras usando o espaço - mas pode ser outro char)
       '-'.join(frase.split()) >>> 'curso-em-video-python' 
+
+# Aula 10 - Condições
+  if condicao == True:
+    bloco True
+  else:
+    bloco False
+
+print('True' if condicao == True else 'False') # esse metodo é meio ruim
