@@ -25,7 +25,7 @@ Minhas Anotações
 
 <font size='6' align='left'>
 
-[Learning Python - Nagesh Rao](https://github.com/brunoruas2/curso_python/blob/main/aulas/Mundo%201%20-%20Anota%C3%A7%C3%B5es.md)
+[Learning Python - Nagesh Rao](https://github.com/brunoruas2/curso_python/blob/main/rao_learning_python/learning_python.md)
 
 [Mundo 01 - Gustavo Guanabara](https://github.com/brunoruas2/curso_python/blob/main/aulas/Mundo%201%20-%20Anota%C3%A7%C3%B5es.md)
 
