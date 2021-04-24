@@ -1,7 +1,12 @@
 # Learning Python
 by Nagesh Rao
 
-## Cap 02 - Python Basics
+<details><summary>
+<font size=5> Cap 02 - Python Basics </font>
+</summary>
+
+<br />
+
 Goals:
  - [x] Understand how statements make up a Python script
  - [x] Work with the basic data types of Python and operate upon them
@@ -114,3 +119,12 @@ p='Python',a='easy',b='fun')
 |{age:d}    |Display argumento named `age` in decimal         |
 |{:d}    |Display the next argument in decimal          |
 
+</details>
+
+---
+
+<details><summary>
+<font size=5> Cap 03 - Python Control Structures </font>
+</summary>
+
+</details>
