@@ -1,4 +1,5 @@
  Curso Python Mundo 1
+
 # Aula 06 - Tipos Primitivos
 - int
 - float
