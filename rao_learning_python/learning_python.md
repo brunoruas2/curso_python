@@ -46,7 +46,6 @@ statement')
 <br />
 
 ### 2.3 - Basic Data Types
-> [!NOTE]
 > Python does not require a variable to be declared as a specific type before use. All data is considered as objects (classes) which will be seen in most depth in chapter 12.
 
 <br />
