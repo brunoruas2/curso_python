@@ -1,7 +1,7 @@
-# Learning Python
-by Nagesh Rao
+# Learning Python by Nagesh Rao
 
-<details><summary>
+<details>
+<summary>
 <font size=5> Cap 02 - Python Basics </font>
 </summary>
 
@@ -122,8 +122,158 @@ p='Python',a='easy',b='fun')
 
 ---
 
-<details><summary>
+<details open>
+<summary>
 <font size=5> Cap 03 - Python Control Structures </font>
 </summary>
+
+things to learn:
+- [ ] Write Python scripts to solve problems and manage the flow of control through it
+- [ ] Frame decision constructs to conditionally execute statements
+- [ ] Frame loop constructs to repeat instructions as many times as required
+- [ ] Learn how to terminate control from a loop, a function, a block and a script
+
+### 3.1 - Getting Started with Programs
+<br/>
+
+### 3.2 - Decisions
+
+#### `if` statement
+```python
+if condition: statement
+
+# or
+
+if condition:
+    statement
+    ...
+```
+
+### `if-else` statement
+```python
+if condition : statement1
+else: statement2
+
+# or
+
+if condition:
+  statement1
+  ...
+else: statement2
+
+# or
+
+if condition: statement1
+else: 
+  statement2
+
+# or
+
+if condition:
+  statement1
+else:
+  statement2
+```
+
+### `if-elif-else` statement
+```python
+if condition1:
+  statement1
+  ...
+elif condition2:
+  statement2
+  ...
+elif condition3:
+  statement3
+  ...
+...
+else:
+  statementn  
+```
+
+### Empty blocks and the pass keyword
+```python
+# positive logic approach
+if condition_to_do_nothing == True:
+  pass
+else:
+  statement1
+
+# or
+
+# negative logic approach
+if condition_to_do_something != False:
+  statement1
+```
+
+### Nested `if` statements
+```python
+if blabla == True:
+  if bleble == True:
+    statement1
+  elif bloblo == True:
+    statement2
+  else:
+    statement3
+```
+
+## Loops
+### `while` loops
+```python
+while condition: statement
+
+# or
+
+while condition:
+  statements
+  ...
+```
+
+### Using a `break` in `while`
+```python
+while condition:
+  if other_condition:
+    break
+  statement
+```
+
+### The `while` loop with `else` clause
+```python
+while condition:
+  statement
+  ...
+else:
+  statement
+```
+
+### The `for` loop + Using `range()` in it + `else`
+```python
+#syntax
+range(end)
+range(start,end)
+range(start,end,step)
+
+for var in range(0,10):
+  statement
+  ...
+else:
+  other_statement
+```
+
+### Nested loops
+```python
+for i in range(0,10,2):
+  while i < 5:
+    do_something
+  else:
+    do_other_something
+    
+```
+
+
+
+
+
+
 
 </details>
