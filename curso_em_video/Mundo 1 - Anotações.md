@@ -99,12 +99,12 @@ Opções:
 
 <div align='center'>
 
-|Estilo  |Código  |
-|---------|---------|
-| nada    |0         |
-|bold     |1         |
-| underline    |2         |
-| negative    |3         |
+| Estilo    | Código |
+|-----------|--------|
+| nada      | 0      |
+| bold      | 1      |
+| underline | 2      |
+| negative  | 3      |
 
 </div>
 
@@ -112,16 +112,16 @@ Opções:
 
 <div align='center'>
 
-|Texto  |Código  |
-|---------|---------|
-|white     |      30   |
-|red     |       31  |
-|gree     |        32 |
-|yellow     | 33        |
-|blue     |   34      |
-|purple     |     35    |
-|cian     |       36  |
-|gray     |        37 |
+| Texto  | Código |
+|--------|--------|
+| white  | 30     |
+| red    | 31     |
+| gree   | 32     |
+| yellow | 33     |
+| blue   | 34     |
+| purple | 35     |
+| cian   | 36     |
+| gray   | 37     |
 
 </div>
 
@@ -129,16 +129,16 @@ Opções:
 
 <div align='center'>
 
-|Background  |Código  |
-|---------|---------|
-|white     |      40   |
-|red     |       41  |
-|gree     |        42 |
-|yellow     | 4        |
-|blue     |   44      |
-|purple     |     45    |
-|cian     |       46  |
-|gray     |        47 |
+| Background | Código |
+|------------|--------|
+| white      | 40     |
+| red        | 41     |
+| gree       | 42     |
+| yellow     | 4      |
+| blue       | 44     |
+| purple     | 45     |
+| cian       | 46     |
+| gray       | 47     |
 
 </div>
 
