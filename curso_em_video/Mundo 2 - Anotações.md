@@ -17,9 +17,9 @@ else:
 
 # Aula 13 - Estruturas de Repetição
 
-
 ```python
-
+for i in range(inicio,final,passo):
+	bloco de código
 ```
 
 
